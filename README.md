@@ -1,6 +1,2 @@
 # script_4_simulation
-Scripts used for post-processing simulation data
-
-test from my github
-
-wait for several days.
+Scripts used for preparing files for simulation and post-processing of simulation data generated from GROMACS/LAMMPS and other packages.
