@@ -1,4 +1,4 @@
-# Readme.md
+# READMD.md
 
 The source code and script are used to simulation Ar liquid (256 atoms)
 in a simulation box and perform statistical analysis of physical properties.
